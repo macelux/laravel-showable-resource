@@ -2,9 +2,9 @@
 
 namespace Showable\Showable;
 
+use Showable\Showable\Commands\ShowableCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Showable\Showable\Commands\ShowableCommand;
 
 class ShowableServiceProvider extends PackageServiceProvider
 {
