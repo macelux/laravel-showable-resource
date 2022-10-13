@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Showable\Showable\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ShowableCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-showable-resource';
 
     public $description = 'My command';
 
